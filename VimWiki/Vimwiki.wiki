@@ -1,0 +1,13 @@
+= Vimwiki =
+
+* vim script url
+
+--usage 
+http://xbeta.info/vimwiki.htm
+https://github.com/vim-scripts/vimwiki
+
+-chinese read me
+http://code.google.com/p/vim-script-cn/source/browse/trunk/doc/vimwiki.cnx
+
+* git for vimwiki publish
+http://www.fanhe.org/blog/2011/01/29/push-vimwiki-to-github/

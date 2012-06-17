@@ -1,0 +1,5 @@
+= curl =
+-O to download files
+http://osxdaily.com/2007/05/11/download-files-from-the-web-via-the-os-x-command-line/
+
+http://www.codediesel.com/tools/6-essential-curl-commands/

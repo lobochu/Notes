@@ -1,0 +1,8 @@
+= VimOutliner =
+* urls
+   https://github.com/vimoutliner/vimoutliner
+   http://jeromyanglim.blogspot.tw/2011/04/using-vim-and-vimoutliner-as.html  
+   
+* cheat sheat
+   https://sites.google.com/site/vimoutlinerinfo/vimoutliner-cheat-sheet
+

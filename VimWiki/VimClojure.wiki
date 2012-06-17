@@ -1,0 +1,13 @@
+= VimClojure =
+
+* vim clojure site
+   https://github.com/vim-scripts/VimClojure
+* git 
+   https://github.com/vim-scripts/VimClojure.git
+* nice guide : vimclojure with nailgun server
+   http://naleid.com/blog/2011/12/19/getting-a-clojure-repl-in-vim-with-vimclojure-nailgun-and-leiningen/
+* vim easy
+   https://github.com/daveray/vimclojure-easy
+   
+* lein-tarsier : integrate with nailgun
+   https://github.com/sattvik/lein-tarsier

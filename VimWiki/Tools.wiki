@@ -1,6 +1,6 @@
 = Tools =
    * [[Vimwiki]] as daily knowledge management tool
-   * [[VimOutliner]] for thought/idea mgmt tool
+   [[*]] [[VimOutliner]] for thought/idea mgmt tool
    * [[VimClojure]] for clojure study
    * Objective-c development
    * [[VimBlogger]] vim for blogger publish
@@ -8,3 +8,4 @@
       https://github.com/vimcn
    * [[GitHub]]
    * [[Curl]]
+   * [[Eclim]]

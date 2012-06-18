@@ -1,0 +1,5 @@
+= Eclim =
+
+* Installation
+   - http://eclim.org/guides/install.html
+   - Can't install with vundle !!, need to assisn separate vimfiles folder.

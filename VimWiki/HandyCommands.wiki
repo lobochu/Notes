@@ -3,5 +3,7 @@
 * Add all changes 
    - git add -A
    - http://stackoverflow.com/questions/572549/difference-of-git-add-a-and-git-add
+   - git push
+   - git pull
    
 

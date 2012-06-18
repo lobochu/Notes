@@ -2,4 +2,5 @@
 
 * Sample commands 
    - http://billy3321.blogspot.hk/2009/02/github-howto.html   
-
+   - http://blog.longwin.com.tw/2009/05/git-learn-test-command-2009/
+* [[HandyCommands]]
